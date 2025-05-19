@@ -1,0 +1,4 @@
+
+google-colab
+google-genai
+google-adk
